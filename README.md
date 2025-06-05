@@ -1,6 +1,6 @@
-# Project 6: Buck Converters
-# Varying Fidelity Levels to Step-Down Alternating Current from Solar Chargers
+# Project #7: Medical Robotics
+# Prototyping an Articulated Manipulator for Cervical Cancer Detection
 
-● Introduced Pulse-Width Modulation, obtaining a reduced output voltage from an open-circuit voltage of 15V                 
-● Smoothed high-frequency pulses with a Zener diode and a low-pass filter for a 25% duty cycle, modeled in MATLAB               
-● Incorporated a high-fidelity, non-linear representation to allow for charging of the mobile device with a 5V capacity          
+● Modelled the robot using 3 spherical wrist joints and 1 prismatic joint to maximize geometric manipulability              
+● Sketched the 3D kinematic diagram and parameterized serial links using the Denavit-Hartenberg convention                
+● Derived transformation matrices for end-effector position and the Jacobian matrix via MATLAB's robotics toolkit                
